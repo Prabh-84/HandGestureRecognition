@@ -13,7 +13,7 @@ The project uses the **MediaPipe** library for hand landmark detection and **Ope
 - `mediapipe`
 
 ## Installation
-1. Install Python 3.x on your system.
+1. Install Python 3.11.9 on your system.
 2. Open a terminal or command prompt in the project folder.
 3. Run the command:
 
